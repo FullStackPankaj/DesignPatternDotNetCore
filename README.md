@@ -1,4 +1,2 @@
-# DesignPatternDotNetCore
-This is work in progerss dotnet core app
-that host
-design pattern
+Covering Desing patterns in this repo
+tech asp.net core c#
