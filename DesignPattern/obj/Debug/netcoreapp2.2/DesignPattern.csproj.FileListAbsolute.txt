@@ -21,3 +21,5 @@ E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\LazyUs
 E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\LazyUsingTSingleton.pdb
 E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\GenericSingletonT.dll
 E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\GenericSingletonT.pdb
+E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\FactoryMethod.dll
+E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\FactoryMethod.pdb

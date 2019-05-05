@@ -9,6 +9,7 @@
       "DesignPattern/1.0.0": {
         "dependencies": {
           "EagerSingleton": "1.0.0",
+          "FactoryMethod": "1.0.0",
           "FullLazyInstantion": "1.0.0",
           "GenericSingletonT": "1.0.0",
           "LazyUsingTSingleton": "1.0.0",
@@ -22,6 +23,11 @@
       "EagerSingleton/1.0.0": {
         "runtime": {
           "EagerSingleton.dll": {}
+        }
+      },
+      "FactoryMethod/1.0.0": {
+        "runtime": {
+          "FactoryMethod.dll": {}
         }
       },
       "FullLazyInstantion/1.0.0": {
@@ -58,6 +64,11 @@
       "sha512": ""
     },
     "EagerSingleton/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FactoryMethod/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

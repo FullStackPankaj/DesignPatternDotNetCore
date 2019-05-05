@@ -1,0 +1,6 @@
+E:\DotNetLearnings\DesingPatternsC#\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+E:\DotNetLearnings\DesingPatternsC#\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+E:\DotNetLearnings\DesingPatternsC#\FactoryMethod\bin\Debug\FactoryMethod.dll
+E:\DotNetLearnings\DesingPatternsC#\FactoryMethod\bin\Debug\FactoryMethod.pdb
+E:\DotNetLearnings\DesingPatternsC#\FactoryMethod\obj\Debug\FactoryMethod.dll
+E:\DotNetLearnings\DesingPatternsC#\FactoryMethod\obj\Debug\FactoryMethod.pdb

@@ -6,6 +6,7 @@ using EagerSingleton;
 using FullLazyInstantion;
 using LazyUsingTSingleton;
 using GenericSingletonT;
+using FactoryMethod;
 
 namespace DesignPattern
 {
@@ -19,7 +20,8 @@ namespace DesignPattern
             //prog.CallEagerSingleton();
             //prog.CallLazySingleton();
             // prog.CallLazyTSingleton();
-            prog.CallSingletonWithGeneric();
+            //prog.CallSingletonWithGeneric();
+            prog.CallFactory();
             Console.ReadKey();
         }
 
@@ -138,6 +140,20 @@ namespace DesignPattern
         public class SimpleType
         {
 
+        }
+
+
+        public void CallFactory()
+        {
+            ClientCode(new LaserProjector());
+            ClientCode(new LampProjector());
+        }
+
+        public void ClientCode(BarcoProjectorFactory factory)
+        {
+            // ...
+            Console.WriteLine(factory.RenderProjector());
+            // ...
         }
     }
 }
