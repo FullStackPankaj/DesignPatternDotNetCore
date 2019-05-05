@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern", "DesignPattern\DesignPattern.csproj", "{67501C66-E7BC-4ABA-AE14-4D3AE3A3BCC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPattern", "DesignPattern\DesignPattern.csproj", "{67501C66-E7BC-4ABA-AE14-4D3AE3A3BCC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonNonThreadSafe", "SingletonNonThreadSafe\SingletonNonThreadSafe.csproj", "{55750961-E287-4D50-9C53-868C76EF4CBD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{67501C66-E7BC-4ABA-AE14-4D3AE3A3BCC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67501C66-E7BC-4ABA-AE14-4D3AE3A3BCC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67501C66-E7BC-4ABA-AE14-4D3AE3A3BCC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55750961-E287-4D50-9C53-868C76EF4CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55750961-E287-4D50-9C53-868C76EF4CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55750961-E287-4D50-9C53-868C76EF4CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55750961-E287-4D50-9C53-868C76EF4CBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,6 @@
+E:\DotNetLearnings\DesingPatternsC#\SingletonNonThreadSafe\bin\Debug\SingletonNonThreadSafe.dll
+E:\DotNetLearnings\DesingPatternsC#\SingletonNonThreadSafe\bin\Debug\SingletonNonThreadSafe.pdb
+E:\DotNetLearnings\DesingPatternsC#\SingletonNonThreadSafe\obj\Debug\SingletonNonThreadSafe.csprojResolveAssemblyReference.cache
+E:\DotNetLearnings\DesingPatternsC#\SingletonNonThreadSafe\obj\Debug\SingletonNonThreadSafe.csproj.CoreCompileInputs.cache
+E:\DotNetLearnings\DesingPatternsC#\SingletonNonThreadSafe\obj\Debug\SingletonNonThreadSafe.dll
+E:\DotNetLearnings\DesingPatternsC#\SingletonNonThreadSafe\obj\Debug\SingletonNonThreadSafe.pdb

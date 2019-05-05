@@ -1,0 +1,13 @@
+E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\DesignPattern.deps.json
+E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\DesignPattern.runtimeconfig.json
+E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\DesignPattern.runtimeconfig.dev.json
+E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\DesignPattern.dll
+E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\DesignPattern.pdb
+E:\DotNetLearnings\DesingPatternsC#\DesignPattern\obj\Debug\netcoreapp2.2\DesignPattern.csprojResolveAssemblyReference.cache
+E:\DotNetLearnings\DesingPatternsC#\DesignPattern\obj\Debug\netcoreapp2.2\DesignPattern.csproj.CoreCompileInputs.cache
+E:\DotNetLearnings\DesingPatternsC#\DesignPattern\obj\Debug\netcoreapp2.2\DesignPattern.AssemblyInfoInputs.cache
+E:\DotNetLearnings\DesingPatternsC#\DesignPattern\obj\Debug\netcoreapp2.2\DesignPattern.AssemblyInfo.cs
+E:\DotNetLearnings\DesingPatternsC#\DesignPattern\obj\Debug\netcoreapp2.2\DesignPattern.dll
+E:\DotNetLearnings\DesingPatternsC#\DesignPattern\obj\Debug\netcoreapp2.2\DesignPattern.pdb
+E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\SingletonNonThreadSafe.dll
+E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\SingletonNonThreadSafe.pdb

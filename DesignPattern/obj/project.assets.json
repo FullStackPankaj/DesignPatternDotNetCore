@@ -207,6 +207,15 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "SingletonNonThreadSafe/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/SingletonNonThreadSafe.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SingletonNonThreadSafe.dll": {}
+        }
       }
     }
   },
@@ -678,11 +687,17 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "SingletonNonThreadSafe/1.0.0": {
+      "type": "project",
+      "path": "../SingletonNonThreadSafe/SingletonNonThreadSafe.csproj",
+      "msbuildProject": "../SingletonNonThreadSafe/SingletonNonThreadSafe.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
-      "Microsoft.NETCore.App >= 2.2.0"
+      "Microsoft.NETCore.App >= 2.2.0",
+      "SingletonNonThreadSafe >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -695,11 +710,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\pansr\\source\\repos\\DesignPattern\\DesignPattern\\DesignPattern.csproj",
+      "projectUniqueName": "E:\\DotNetLearnings\\DesingPatternsC#\\DesignPattern\\DesignPattern.csproj",
       "projectName": "DesignPattern",
-      "projectPath": "C:\\Users\\pansr\\source\\repos\\DesignPattern\\DesignPattern\\DesignPattern.csproj",
+      "projectPath": "E:\\DotNetLearnings\\DesingPatternsC#\\DesignPattern\\DesignPattern.csproj",
       "packagesPath": "C:\\Users\\pansr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pansr\\source\\repos\\DesignPattern\\DesignPattern\\obj\\",
+      "outputPath": "E:\\DotNetLearnings\\DesingPatternsC#\\DesignPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -719,7 +734,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\DotNetLearnings\\DesingPatternsC#\\SingletonNonThreadSafe\\SingletonNonThreadSafe.csproj": {
+              "projectPath": "E:\\DotNetLearnings\\DesingPatternsC#\\SingletonNonThreadSafe\\SingletonNonThreadSafe.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
