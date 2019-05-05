@@ -11,3 +11,13 @@ E:\DotNetLearnings\DesingPatternsC#\DesignPattern\obj\Debug\netcoreapp2.2\Design
 E:\DotNetLearnings\DesingPatternsC#\DesignPattern\obj\Debug\netcoreapp2.2\DesignPattern.pdb
 E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\SingletonNonThreadSafe.dll
 E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\SingletonNonThreadSafe.pdb
+E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\SingletonThreadSafe.dll
+E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\SingletonThreadSafe.pdb
+E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\EagerSingleton.dll
+E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\EagerSingleton.pdb
+E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\FullLazyInstantion.dll
+E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\FullLazyInstantion.pdb
+E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\LazyUsingTSingleton.dll
+E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\LazyUsingTSingleton.pdb
+E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\GenericSingletonT.dll
+E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\GenericSingletonT.pdb

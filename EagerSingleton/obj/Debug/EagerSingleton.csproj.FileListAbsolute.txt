@@ -1,0 +1,6 @@
+E:\DotNetLearnings\DesingPatternsC#\EagerSingleton\bin\Debug\EagerSingleton.dll
+E:\DotNetLearnings\DesingPatternsC#\EagerSingleton\bin\Debug\EagerSingleton.pdb
+E:\DotNetLearnings\DesingPatternsC#\EagerSingleton\obj\Debug\EagerSingleton.csprojResolveAssemblyReference.cache
+E:\DotNetLearnings\DesingPatternsC#\EagerSingleton\obj\Debug\EagerSingleton.csproj.CoreCompileInputs.cache
+E:\DotNetLearnings\DesingPatternsC#\EagerSingleton\obj\Debug\EagerSingleton.dll
+E:\DotNetLearnings\DesingPatternsC#\EagerSingleton\obj\Debug\EagerSingleton.pdb

@@ -1,0 +1,5 @@
+E:\DotNetLearnings\DesingPatternsC#\GenericSingletonT\bin\Debug\GenericSingletonT.dll
+E:\DotNetLearnings\DesingPatternsC#\GenericSingletonT\bin\Debug\GenericSingletonT.pdb
+E:\DotNetLearnings\DesingPatternsC#\GenericSingletonT\obj\Debug\GenericSingletonT.csproj.CoreCompileInputs.cache
+E:\DotNetLearnings\DesingPatternsC#\GenericSingletonT\obj\Debug\GenericSingletonT.dll
+E:\DotNetLearnings\DesingPatternsC#\GenericSingletonT\obj\Debug\GenericSingletonT.pdb

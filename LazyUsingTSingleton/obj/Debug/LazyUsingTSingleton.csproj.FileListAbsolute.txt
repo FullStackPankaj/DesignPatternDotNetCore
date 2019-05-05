@@ -1,0 +1,5 @@
+E:\DotNetLearnings\DesingPatternsC#\LazyUsingTSingleton\bin\Debug\LazyUsingTSingleton.dll
+E:\DotNetLearnings\DesingPatternsC#\LazyUsingTSingleton\bin\Debug\LazyUsingTSingleton.pdb
+E:\DotNetLearnings\DesingPatternsC#\LazyUsingTSingleton\obj\Debug\LazyUsingTSingleton.csproj.CoreCompileInputs.cache
+E:\DotNetLearnings\DesingPatternsC#\LazyUsingTSingleton\obj\Debug\LazyUsingTSingleton.dll
+E:\DotNetLearnings\DesingPatternsC#\LazyUsingTSingleton\obj\Debug\LazyUsingTSingleton.pdb

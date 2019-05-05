@@ -6,7 +6,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\EagerSingleton\EagerSingleton.csproj" />
+    <ProjectReference Include="..\FullLazyInstantion\FullLazyInstantion.csproj" />
+    <ProjectReference Include="..\GenericSingletonT\GenericSingletonT.csproj" />
+    <ProjectReference Include="..\LazyUsingTSingleton\LazyUsingTSingleton.csproj" />
     <ProjectReference Include="..\SingletonNonThreadSafe\SingletonNonThreadSafe.csproj" />
+    <ProjectReference Include="..\SingletonThreadSafe\SingletonThreadSafe.csproj" />
   </ItemGroup>
 
 </Project>

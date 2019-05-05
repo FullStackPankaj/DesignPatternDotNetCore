@@ -8,15 +8,45 @@
     ".NETCoreApp,Version=v2.2": {
       "DesignPattern/1.0.0": {
         "dependencies": {
-          "SingletonNonThreadSafe": "1.0.0"
+          "EagerSingleton": "1.0.0",
+          "FullLazyInstantion": "1.0.0",
+          "GenericSingletonT": "1.0.0",
+          "LazyUsingTSingleton": "1.0.0",
+          "SingletonNonThreadSafe": "1.0.0",
+          "SingletonThreadSafe": "1.0.0"
         },
         "runtime": {
           "DesignPattern.dll": {}
         }
       },
+      "EagerSingleton/1.0.0": {
+        "runtime": {
+          "EagerSingleton.dll": {}
+        }
+      },
+      "FullLazyInstantion/1.0.0": {
+        "runtime": {
+          "FullLazyInstantion.dll": {}
+        }
+      },
+      "GenericSingletonT/1.0.0": {
+        "runtime": {
+          "GenericSingletonT.dll": {}
+        }
+      },
+      "LazyUsingTSingleton/1.0.0": {
+        "runtime": {
+          "LazyUsingTSingleton.dll": {}
+        }
+      },
       "SingletonNonThreadSafe/1.0.0": {
         "runtime": {
           "SingletonNonThreadSafe.dll": {}
+        }
+      },
+      "SingletonThreadSafe/1.0.0": {
+        "runtime": {
+          "SingletonThreadSafe.dll": {}
         }
       }
     }
@@ -27,7 +57,32 @@
       "serviceable": false,
       "sha512": ""
     },
+    "EagerSingleton/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FullLazyInstantion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GenericSingletonT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LazyUsingTSingleton/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "SingletonNonThreadSafe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SingletonThreadSafe/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

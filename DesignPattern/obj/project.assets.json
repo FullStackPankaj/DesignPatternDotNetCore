@@ -208,6 +208,42 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
+      "EagerSingleton/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/EagerSingleton.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EagerSingleton.dll": {}
+        }
+      },
+      "FullLazyInstantion/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/FullLazyInstantion.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FullLazyInstantion.dll": {}
+        }
+      },
+      "GenericSingletonT/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/GenericSingletonT.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GenericSingletonT.dll": {}
+        }
+      },
+      "LazyUsingTSingleton/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/LazyUsingTSingleton.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LazyUsingTSingleton.dll": {}
+        }
+      },
       "SingletonNonThreadSafe/1.0.0": {
         "type": "project",
         "compile": {
@@ -215,6 +251,15 @@
         },
         "runtime": {
           "bin/placeholder/SingletonNonThreadSafe.dll": {}
+        }
+      },
+      "SingletonThreadSafe/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/SingletonThreadSafe.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SingletonThreadSafe.dll": {}
         }
       }
     }
@@ -688,16 +733,46 @@
         "netstandard.library.nuspec"
       ]
     },
+    "EagerSingleton/1.0.0": {
+      "type": "project",
+      "path": "../EagerSingleton/EagerSingleton.csproj",
+      "msbuildProject": "../EagerSingleton/EagerSingleton.csproj"
+    },
+    "FullLazyInstantion/1.0.0": {
+      "type": "project",
+      "path": "../FullLazyInstantion/FullLazyInstantion.csproj",
+      "msbuildProject": "../FullLazyInstantion/FullLazyInstantion.csproj"
+    },
+    "GenericSingletonT/1.0.0": {
+      "type": "project",
+      "path": "../GenericSingletonT/GenericSingletonT.csproj",
+      "msbuildProject": "../GenericSingletonT/GenericSingletonT.csproj"
+    },
+    "LazyUsingTSingleton/1.0.0": {
+      "type": "project",
+      "path": "../LazyUsingTSingleton/LazyUsingTSingleton.csproj",
+      "msbuildProject": "../LazyUsingTSingleton/LazyUsingTSingleton.csproj"
+    },
     "SingletonNonThreadSafe/1.0.0": {
       "type": "project",
       "path": "../SingletonNonThreadSafe/SingletonNonThreadSafe.csproj",
       "msbuildProject": "../SingletonNonThreadSafe/SingletonNonThreadSafe.csproj"
+    },
+    "SingletonThreadSafe/1.0.0": {
+      "type": "project",
+      "path": "../SingletonThreadSafe/SingletonThreadSafe.csproj",
+      "msbuildProject": "../SingletonThreadSafe/SingletonThreadSafe.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
+      "EagerSingleton >= 1.0.0",
+      "FullLazyInstantion >= 1.0.0",
+      "GenericSingletonT >= 1.0.0",
+      "LazyUsingTSingleton >= 1.0.0",
       "Microsoft.NETCore.App >= 2.2.0",
-      "SingletonNonThreadSafe >= 1.0.0"
+      "SingletonNonThreadSafe >= 1.0.0",
+      "SingletonThreadSafe >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -735,8 +810,23 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
+            "E:\\DotNetLearnings\\DesingPatternsC#\\FullLazyInstantion\\FullLazyInstantion.csproj": {
+              "projectPath": "E:\\DotNetLearnings\\DesingPatternsC#\\FullLazyInstantion\\FullLazyInstantion.csproj"
+            },
+            "E:\\DotNetLearnings\\DesingPatternsC#\\LazyUsingTSingleton\\LazyUsingTSingleton.csproj": {
+              "projectPath": "E:\\DotNetLearnings\\DesingPatternsC#\\LazyUsingTSingleton\\LazyUsingTSingleton.csproj"
+            },
+            "E:\\DotNetLearnings\\DesingPatternsC#\\EagerSingleton\\EagerSingleton.csproj": {
+              "projectPath": "E:\\DotNetLearnings\\DesingPatternsC#\\EagerSingleton\\EagerSingleton.csproj"
+            },
             "E:\\DotNetLearnings\\DesingPatternsC#\\SingletonNonThreadSafe\\SingletonNonThreadSafe.csproj": {
               "projectPath": "E:\\DotNetLearnings\\DesingPatternsC#\\SingletonNonThreadSafe\\SingletonNonThreadSafe.csproj"
+            },
+            "E:\\DotNetLearnings\\DesingPatternsC#\\GenericSingletonT\\GenericSingletonT.csproj": {
+              "projectPath": "E:\\DotNetLearnings\\DesingPatternsC#\\GenericSingletonT\\GenericSingletonT.csproj"
+            },
+            "E:\\DotNetLearnings\\DesingPatternsC#\\SingletonThreadSafe\\SingletonThreadSafe.csproj": {
+              "projectPath": "E:\\DotNetLearnings\\DesingPatternsC#\\SingletonThreadSafe\\SingletonThreadSafe.csproj"
             }
           }
         }
