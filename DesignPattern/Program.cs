@@ -7,6 +7,7 @@ using FullLazyInstantion;
 using LazyUsingTSingleton;
 using GenericSingletonT;
 using FactoryMethod;
+using CommandPattern;
 
 namespace DesignPattern
 {
@@ -21,7 +22,8 @@ namespace DesignPattern
             //prog.CallLazySingleton();
             // prog.CallLazyTSingleton();
             //prog.CallSingletonWithGeneric();
-            prog.CallFactory();
+            // prog.CallFactory();
+            prog.CallCommandPattern();
             Console.ReadKey();
         }
 
@@ -154,6 +156,17 @@ namespace DesignPattern
             // ...
             Console.WriteLine(factory.RenderProjector());
             // ...
+        }
+
+
+        public void CallCommandPattern()
+        {
+            CommandInvoker invoker = new CommandInvoker();
+            invoker.handleNotificationCommand(new NotificationCommand("notification "));
+            Receiver receiver = new Receiver();
+            invoker.handleSignalCommand(new SignalCommand(receiver, "Send email", "Save report"));
+
+            invoker.ProcessCommand();
         }
     }
 }

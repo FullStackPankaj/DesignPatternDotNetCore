@@ -8,6 +8,8 @@
     ".NETCoreApp,Version=v2.2": {
       "DesignPattern/1.0.0": {
         "dependencies": {
+          "AbstractFactoryMethod": "1.0.0",
+          "CommandPattern": "1.0.0",
           "EagerSingleton": "1.0.0",
           "FactoryMethod": "1.0.0",
           "FullLazyInstantion": "1.0.0",
@@ -18,6 +20,16 @@
         },
         "runtime": {
           "DesignPattern.dll": {}
+        }
+      },
+      "AbstractFactoryMethod/1.0.0": {
+        "runtime": {
+          "AbstractFactoryMethod.dll": {}
+        }
+      },
+      "CommandPattern/1.0.0": {
+        "runtime": {
+          "CommandPattern.dll": {}
         }
       },
       "EagerSingleton/1.0.0": {
@@ -59,6 +71,16 @@
   },
   "libraries": {
     "DesignPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AbstractFactoryMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommandPattern/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

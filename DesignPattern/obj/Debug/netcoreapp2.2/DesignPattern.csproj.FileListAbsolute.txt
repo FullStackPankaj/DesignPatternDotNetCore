@@ -23,3 +23,7 @@ E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\Generi
 E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\GenericSingletonT.pdb
 E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\FactoryMethod.dll
 E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\FactoryMethod.pdb
+E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\AbstractFactoryMethod.dll
+E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\CommandPattern.dll
+E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\AbstractFactoryMethod.pdb
+E:\DotNetLearnings\DesingPatternsC#\DesignPattern\bin\Debug\netcoreapp2.2\CommandPattern.pdb

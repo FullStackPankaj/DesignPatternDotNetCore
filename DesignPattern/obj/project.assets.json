@@ -208,6 +208,24 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
+      "AbstractFactoryMethod/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/AbstractFactoryMethod.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AbstractFactoryMethod.dll": {}
+        }
+      },
+      "CommandPattern/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/CommandPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommandPattern.dll": {}
+        }
+      },
       "EagerSingleton/1.0.0": {
         "type": "project",
         "compile": {
@@ -742,6 +760,16 @@
         "netstandard.library.nuspec"
       ]
     },
+    "AbstractFactoryMethod/1.0.0": {
+      "type": "project",
+      "path": "../AbstractFactoryMethod/AbstractFactoryMethod.csproj",
+      "msbuildProject": "../AbstractFactoryMethod/AbstractFactoryMethod.csproj"
+    },
+    "CommandPattern/1.0.0": {
+      "type": "project",
+      "path": "../CommandPattern/CommandPattern.csproj",
+      "msbuildProject": "../CommandPattern/CommandPattern.csproj"
+    },
     "EagerSingleton/1.0.0": {
       "type": "project",
       "path": "../EagerSingleton/EagerSingleton.csproj",
@@ -780,6 +808,8 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
+      "AbstractFactoryMethod >= 1.0.0",
+      "CommandPattern >= 1.0.0",
       "EagerSingleton >= 1.0.0",
       "FactoryMethod >= 1.0.0",
       "FullLazyInstantion >= 1.0.0",
@@ -825,8 +855,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
+            "E:\\DotNetLearnings\\DesingPatternsC#\\CommandPattern\\CommandPattern.csproj": {
+              "projectPath": "E:\\DotNetLearnings\\DesingPatternsC#\\CommandPattern\\CommandPattern.csproj"
+            },
             "E:\\DotNetLearnings\\DesingPatternsC#\\FullLazyInstantion\\FullLazyInstantion.csproj": {
               "projectPath": "E:\\DotNetLearnings\\DesingPatternsC#\\FullLazyInstantion\\FullLazyInstantion.csproj"
+            },
+            "E:\\DotNetLearnings\\DesingPatternsC#\\AbstractFactoryMethod\\AbstractFactoryMethod.csproj": {
+              "projectPath": "E:\\DotNetLearnings\\DesingPatternsC#\\AbstractFactoryMethod\\AbstractFactoryMethod.csproj"
             },
             "E:\\DotNetLearnings\\DesingPatternsC#\\LazyUsingTSingleton\\LazyUsingTSingleton.csproj": {
               "projectPath": "E:\\DotNetLearnings\\DesingPatternsC#\\LazyUsingTSingleton\\LazyUsingTSingleton.csproj"
